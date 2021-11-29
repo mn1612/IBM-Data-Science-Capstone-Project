@@ -1,0 +1,10 @@
+Row Labels,Count of Customer,,
+Controlled (ocean),3,No attempt,10
+Failure (drone ship),5,Failure (drone ship),5
+Failure (parachute),2,Success (drone ship),5
+No attempt,10,Controlled (ocean),3
+Precluded (drone ship),1,Success (ground pad),3
+Success (drone ship),5,Failure (parachute),2
+Success (ground pad),3,Uncontrolled (ocean),2
+Uncontrolled (ocean),2,Precluded (drone ship),1
+Grand Total,31,,
